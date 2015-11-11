@@ -21,8 +21,9 @@ Questions
 2. How many employees were hired since 2010?
 3. How many employees were hired in the December month (regardless of year). Hint: use year(hiredate) to get the year part from a date time column.
 
-The 'TimeCards' table holds the hours scheduled and actually worked for employees this year. What is the total hours schedule for employees and what is the total hours actually worked for this year?
+The 'TimeCards' table holds the hours scheduled and actually worked for employees this year. 
 
+1. What is the total hours schedule for employees and what is the total hours actually worked for this year?
 5. Print each employees first name and how many hours they actually worked this year.
 6. Print each employees first name and how many hours they actually worked EACH week. 
 7. Print each employees first name and the DIFFERENCe in hours schedule and what they worked for the entire year.
