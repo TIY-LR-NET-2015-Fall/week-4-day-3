@@ -28,6 +28,7 @@ The 'TimeCards' table holds the hours scheduled and actually worked for employee
 7. Print each employees first name and the DIFFERENCe in hours schedule and what they worked for the entire year.
 
 The 'EmployeeManagers' table tells you which employee (managerid) manages what employee(s). 
+
 1. What are the names of all of our managers.
 2. how many employees have managers?
 3. Create a report that shows the managers name and all the employees underneath them.
